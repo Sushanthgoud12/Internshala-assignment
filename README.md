@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 Include a link to a live demo of the project if available.
 
-[Live Demo](internassign01.ccbp.tech)
+[Live Demo](https://internassign01.ccbp.tech/)
 
 ## Authors
 
